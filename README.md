@@ -2,7 +2,7 @@
 
 Call Center Manager PC is a Windows desktop version of the Call Center Manager application. It is designed for local call center work, client management, call tracking, reminders, scripts, WhatsApp templates, and reporting.
 
-![Call Center Manager PC dark dashboard](images/pc_version_dark.png)
+![Call Center Manager PC dark dashboard](images/pc version dark.png)
 
 ## Main Features
 
