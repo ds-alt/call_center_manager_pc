@@ -51,7 +51,4 @@ To disable username and password login:
 
 The Windows installer is built as an MSI file.
 
-Current installer path in the project:
 
-```text
-app/build/compose/binaries/main/msi-manual/CallCenter-1.4.0.msi
