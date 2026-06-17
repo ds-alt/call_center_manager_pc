@@ -51,4 +51,6 @@ To disable username and password login:
 
 The Windows installer is built as an MSI file.
 
+And you can also download the Android version here - https://github.com/ds-alt/call_center_manager
+
 
